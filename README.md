@@ -15,7 +15,7 @@ With hands-on experience in projects and real-world simulations, I bring practic
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Creating Private Mail Server                                 | [Lab](https://github.com)|
+| Creating Private Mail Server                                 | [Lab](https://github.com/CTeja27/Mail-server-)|
 | Network Traffic Monitoring and Attack Detection | Lab|
 | Network Audit                | Lab|
 | Incident Response Planning and Execution      | Lab|
