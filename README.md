@@ -66,7 +66,7 @@ Working on to acquire.
 </div>
 
 ## Projects
-- [Private Mail Server](https://github.com/AlbedoAi/Mail-Server)
+- [Private Mail Server](https://github.com/CTeja27/Mail-server-)
 - [Computer Forensics](https://github.com/CTeja27/Forensics)
 - Network Audit
 - Operating System Exploitation
