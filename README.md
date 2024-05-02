@@ -70,5 +70,5 @@ Working on to acquire.
 - Network Audit
 - Operating System Exploitation
 - Network Traffic Monitoring And Attack Detection
-- [Scripting](https://github.com/AlbedoAi/Python-Projects)
-- [IoT Projects](https://github.com/AlbedoAi/picoWProjects)
+- [Scripting](https://github.com/)
+- [IoT Projects](https://github.com/)
