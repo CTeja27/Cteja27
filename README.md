@@ -21,7 +21,7 @@ With hands-on experience in projects and real-world simulations, I bring practic
 | Incident Response Planning and Execution      | Lab|
 | Operating System Exploitation                  | Lab|
 | Scripting and Automation for Threat Mitigation | [Lab](https://github.com/)|
-| Managing IoT Devices with AWS | [Lab](https://github.com)|
+| IoT device Pipico | [Lab](https://github.com/CTeja27/IoTpico)|
 
 
 ## Tools
